@@ -1,18 +1,6 @@
----
-title: Creating and highlighting code blocks
-intro: Share samples of code with fenced code blocks and enabling syntax highlighting.
-redirect_from:
-  - /articles/creating-and-highlighting-code-blocks
-  - /github/writing-on-github/creating-and-highlighting-code-blocks
-versions:
-  fpt: '*'
-  ghes: '*'
-  ghae: '*'
-  ghec: '*'
-shortTitle: Create code blocks
----
 
-## Fenced code blocks
+
+## Fenced code blocks 103082
 
 You can create fenced code blocks by placing triple backticks <code>\`\`\`</code> before and after the code block. We recommend placing a blank line before and after code blocks to make the raw formatting easier to read.
 
